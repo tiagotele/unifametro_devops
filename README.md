@@ -2,7 +2,5 @@
 
 Prática de Git para estudantes da Unifametro
 
-git checkout -b <SEU_NOME>
-
 ## Estudantes
-Nome, Email
+Iuri Petrola, iuri.petrola@gmail.com
