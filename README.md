@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-Nome, Email
+Lucas Lira, lucas.lira@aluno.unifametro.edu.br
