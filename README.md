@@ -2,7 +2,7 @@
 
 Prática de Git para estudantes da Unifametro
 
-git checkout -b <SEU_NOME>
+git checkout -b <JOEL>
 
 ## Estudantes
-Nome, Email
+Joel Santos, joelsan90@hotmail.com
