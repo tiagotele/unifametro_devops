@@ -5,4 +5,4 @@ Prática de Git para estudantes da Unifametro
 git checkout -b <SEU_NOME>
 
 ## Estudantes
-Nome, Email
+Jefferson Rodrigues Costa, jeffersonro1@yahoo.com.br
