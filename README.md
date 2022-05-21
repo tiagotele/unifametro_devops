@@ -5,4 +5,4 @@ Prática de Git para estudantes da Unifametro
 git checkout -b <SEU_NOME>
 
 ## Estudantes
-Nome, Email
+Fábio Costa, biophas@gmail.com
