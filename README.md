@@ -6,3 +6,4 @@ git checkout -b <SEU_NOME>
 
 ## Estudantes
 Nome, Email
+Karla Sampaio, karlabsamp@gmail.com
