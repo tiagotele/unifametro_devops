@@ -3,7 +3,7 @@
 Prática de Git para estudantes da Unifametro
 
 git checkout -b <SEU_NOME>
-
-## Estudantes
-Nome, Email
+Denis Simplicio, Presença.
+Mabelly, mabelly.gomes@gmail.com
 Karla Sampaio, karlabsamp@gmail.com
+
