@@ -28,3 +28,4 @@ Jefferson Rodrigues Costa, jeffersonro1@yahoo.com.br
 marcos vinicius, marcos.oliveira@unifametro.edu.br
 Johnson Johnyson De Lima Rodrigues, johnsonrodrigues19@gmail.com
 Felipe Bezerra Ferreira, felipe.f3rreira@gmail.com
+Wesley de Sousa Silva, contato.wesleydesousa@gmail.com
