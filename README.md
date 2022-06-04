@@ -13,3 +13,5 @@ Julian, julian.ramalho@hotmail.com
 Monique Parente, moniqueparente.eng@gmail.com
 Jose Onilton de Alcantara Lima Junior, jose.junior11@aluno.unifametro.edu.br
 Lucio Breno, lucio.andrade01@aluno.unifametro.edu.br
+Eric Pinheiro Vasconcelos,ericvasconceloss@gmail.com
+
