@@ -2,7 +2,6 @@
 
 Prática de Git para estudantes da Unifametro
 
-
 ## Estudantes
 Nome, Email
 Denis Simplicio, Presença.
@@ -19,3 +18,4 @@ Marcio Fonteles, marcio.fonteles.8@gmail.com
 Andre Brandao, brandao_andre3@hotmail.com
 Ant° Leandro F. e Sousa, sem email
 Karliane Oliveira, karlianeoliveira1d@gmail.com
+Iuri Petrola, iuri.petrola@gmail.com
