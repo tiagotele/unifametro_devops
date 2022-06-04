@@ -3,6 +3,7 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
+Nome, Email
 Emerson Rocha, emersondev.rocha@gmail.com
 Denis Simplicio, Presença.
 Mabelly, mabelly.gomes@gmail.com
@@ -25,3 +26,4 @@ Jackcilene Vitória, jackcilenevtoria@gmail.com
 Lucas Lira, lucas.lira@aluno.unifametro.edu.br
 Jefferson Rodrigues Costa, jeffersonro1@yahoo.com.br
 marcos vinicius, marcos.oliveira@unifametro.edu.br
+Johnson Johnyson De Lima Rodrigues, johnsonrodrigues19@gmail.com
