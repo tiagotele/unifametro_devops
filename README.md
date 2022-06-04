@@ -16,3 +16,4 @@ Lucio Breno, lucio.andrade01@aluno.unifametro.edu.br
 Eric Pinheiro Vasconcelos,ericvasconceloss@gmail.com
 Jefferson Vasconcelos, jefferson.vasconcelos29@gmail.com
 Marcio Fonteles, marcio.fonteles.8@gmail.com
+Andre Brandao, brandao_andre3@hotmail.com
