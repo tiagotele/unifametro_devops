@@ -22,3 +22,4 @@ Iuri Petrola, iuri.petrola@gmail.com
 Fábio Costa, biophas@gmail.com
 Rafael Laurindo, [@rafaellaurindo](https://www.github.com/rafaellaurindo)
 Jackcilene Vitória, jackcilenevtoria@gmail.com
+Lucas Lira, lucas.lira@aluno.unifametro.edu.br
