@@ -3,7 +3,7 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-Nome, Email
+Emerson Rocha, emersondev.rocha@gmail.com
 Denis Simplicio, Presença.
 Mabelly, mabelly.gomes@gmail.com
 Karla Sampaio, karlabsamp@gmail.com
@@ -21,3 +21,4 @@ Karliane Oliveira, karlianeoliveira1d@gmail.com
 Iuri Petrola, iuri.petrola@gmail.com
 Fábio Costa, biophas@gmail.com
 Rafael Laurindo, [@rafaellaurindo](https://www.github.com/rafaellaurindo)
+Jackcilene Vitória, jackcilenevtoria@gmail.com
