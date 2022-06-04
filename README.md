@@ -20,3 +20,4 @@ Ant° Leandro F. e Sousa, sem email
 Karliane Oliveira, karlianeoliveira1d@gmail.com
 Iuri Petrola, iuri.petrola@gmail.com
 Fábio Costa, biophas@gmail.com
+Rafael Laurindo, [@rafaellaurindo](https://www.github.com/rafaellaurindo)
