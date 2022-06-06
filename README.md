@@ -30,3 +30,4 @@ Prática de Git para estudantes da Unifametro
 - Felipe Bezerra Ferreira, felipe.f3rreira@gmail.com
 - Wesley de Sousa Silva, contato.wesleydesousa@gmail.com
 - ITAMAR BRUNO DE OLIVEIRA, brunnooliver@gmail.com
+- Ana Jessica Mendes de Oliveira, anajessica.mdo@gmail.com
