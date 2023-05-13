@@ -3,4 +3,5 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Rhandel Falcão, rhandel_falcao@hotmail.com
+
