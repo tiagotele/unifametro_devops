@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Jose Tiago Rodrigues Gomes, tgrodrigues1987@gmail.com
