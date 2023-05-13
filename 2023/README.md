@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Felipe Barbosa Patricio, felipepatricio38@gmail.com
