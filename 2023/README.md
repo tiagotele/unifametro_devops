@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- ITALO IVO SOARES DA SILVA, italojdm@gmail.com
