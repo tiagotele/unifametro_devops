@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Marcus Peter Dimarães Braga, m_peter33@hotmail.com
