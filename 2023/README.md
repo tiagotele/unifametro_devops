@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Ramiro Damasceno Ribeiro, ramiro.dr@gmail.com
