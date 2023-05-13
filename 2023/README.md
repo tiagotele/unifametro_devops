@@ -3,4 +3,5 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Nome: Kewton Venancio do Carmo
+- Email: kewton.v@gmail.com
