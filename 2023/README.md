@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+Isaac Ferreira Do Nascimento isaacferreirati@gmail.com
