@@ -3,4 +3,5 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Joao Paulo Reis Lima, jjpauloreis@gmail.com
+- 
