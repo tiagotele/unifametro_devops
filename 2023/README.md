@@ -3,4 +3,4 @@
 Prática de Git para estudantes da Unifametro
 
 ## Estudantes
-- Nome, Email
+- Miguel Jefferson do Nascimento Ferreira, miguel2012fanor@gmail.com
